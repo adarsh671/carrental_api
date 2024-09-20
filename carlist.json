@@ -14,8 +14,8 @@
     "Seats": "5",
     "Bootspace": "378 Litre",
     "FuelCapacity": "37 Litre",
-    "citymileage": "37 Litre",
-    "highwaymileage": "37 Litre"
+    "citymileage": "37",
+    "highwaymileage": "37"
   },
   {
     "carId": 2,
@@ -32,8 +32,8 @@
     "Seats": "5",
     "Bootspace": "359 Litre",
     "FuelCapacity": "40 Litre",
-    "citymileage": "14 Litre",
-    "highwaymileage": "16 Litre"
+    "citymileage": "14",
+    "highwaymileage": "16"
   },
   {
     "carId": 3,
@@ -50,8 +50,8 @@
     "Seats": "5",
     "Bootspace": "251 Litre",
     "FuelCapacity": "45 Litre",
-    "citymileage": "16 Litre",
-    "highwaymileage": "20 Litre"
+    "citymileage": "16",
+    "highwaymileage": "20"
   },
   {
     "carId": 4,
@@ -68,8 +68,8 @@
     "Seats": "5",
     "Bootspace": "205 Litre",
     "FuelCapacity": "42 Litre",
-    "citymileage": "16 Litre",
-    "highwaymileage": "18 Litre"
+    "citymileage": "16",
+    "highwaymileage": "18"
   },
   {
     "carId": 5,
@@ -86,8 +86,8 @@
     "Seats": "7",
     "Bootspace": "257 Litre",
     "FuelCapacity": "42 Litre",
-    "citymileage": "15 Litre",
-    "highwaymileage": "18 Litre"
+    "citymileage": "15",
+    "highwaymileage": "18"
   },
   {
     "carId": 6,
@@ -104,8 +104,8 @@
     "Seats": "5",
     "Bootspace": "84 Litre",
     "FuelCapacity": "40 Litre",
-    "citymileage": "11 Litre",
-    "highwaymileage": "15 Litre"
+    "citymileage": "11",
+    "highwaymileage": "15"
   },
   {
     "carId": 7,
@@ -122,8 +122,8 @@
     "Seats": "5",
     "Bootspace": "270 Litre",
     "FuelCapacity": "27 Litre",
-    "citymileage": "15 Litre",
-    "highwaymileage": "17 Litre"
+    "citymileage": "15",
+    "highwaymileage": "17"
   },
   {
     "carId": 8,
@@ -140,8 +140,8 @@
     "Seats": "5",
     "Bootspace": "270 Litre",
     "FuelCapacity": "27 Litre",
-    "citymileage": "15 Litre",
-    "highwaymileage": "17 Litre"
+    "citymileage": "15",
+    "highwaymileage": "17"
   },
   {
     "carId": 9,
@@ -158,8 +158,8 @@
     "Seats": "7",
     "Bootspace": "296 Litre",
     "FuelCapacity": "80 Litre",
-    "citymileage": "10 Litre",
-    "highwaymileage": "11 Litre"
+    "citymileage": "10",
+    "highwaymileage": "11"
   },
   {
     "carId": 10,
@@ -176,8 +176,8 @@
     "Seats": "5",
     "Bootspace": "265 Litre",
     "FuelCapacity": "76 Litre",
-    "citymileage": "10 Litre",
-    "highwaymileage": "12 Litre"
+    "citymileage": "10",
+    "highwaymileage": "12"
   },
   {
     "carId": 11,
@@ -194,8 +194,8 @@
     "Seats": "7",
     "Bootspace": "2696 Litre",
     "FuelCapacity": "80 Litre",
-    "citymileage": "10 Litre",
-    "highwaymileage": "11 Litre"
+    "citymileage": "10",
+    "highwaymileage": "11"
   },
   {
     "carId": 12,
@@ -212,8 +212,8 @@
     "Seats": "7",
     "Bootspace": "269 Litre",
     "FuelCapacity": "96 Litre",
-    "citymileage": "11 Litre",
-    "highwaymileage": "13 Litre"
+    "citymileage": "11",
+    "highwaymileage": "13"
   },
   {
     "carId": 13,
@@ -230,8 +230,8 @@
     "Seats": "7",
     "Bootspace": "460 Litre",
     "FuelCapacity": "60 Litre",
-    "citymileage": "9 Litre",
-    "highwaymileage": "12 Litre"
+    "citymileage": "9",
+    "highwaymileage": "12"
   },
   {
     "carId": 14,
@@ -248,8 +248,8 @@
     "Seats": "5",
     "Bootspace": "520 Litre",
     "FuelCapacity": "66 Litre",
-    "citymileage": "10 Litre",
-    "highwaymileage": "11 Litre"
+    "citymileage": "10",
+    "highwaymileage": "11"
   },
   {
     "carId": 15,
@@ -266,8 +266,8 @@
     "Seats": "5",
     "Bootspace": "505 Litre",
     "FuelCapacity": "61 Litre",
-    "citymileage": "10 Litre",
-    "highwaymileage": "11 Litre"
+    "citymileage": "10",
+    "highwaymileage": "11"
   },
   {
     "carId": 16,
@@ -284,8 +284,8 @@
     "Seats": "5",
     "Bootspace": "610 Litre",
     "FuelCapacity": "66 Litre",
-    "citymileage": "10 Litre",
-    "highwaymileage": "11 Litre"
+    "citymileage": "10",
+    "highwaymileage": "11"
   },
   {
     "carId": 17,
@@ -302,8 +302,8 @@
     "Seats": "4",
     "Bootspace": "320 Litre",
     "FuelCapacity": "50 Litre",
-    "citymileage": "9 Litre",
-    "highwaymileage": "10 Litre"
+    "citymileage": "9",
+    "highwaymileage": "10"
   },
   {
     "carId": 18,
@@ -320,8 +320,8 @@
     "Seats": "4",
     "Bootspace": "285 Litre",
     "FuelCapacity": "66 Litre",
-    "citymileage": "7 Litre",
-    "highwaymileage": "8 Litre"
+    "citymileage": "7",
+    "highwaymileage": "8"
   },
   {
     "carId": 19,
@@ -338,7 +338,7 @@
     "Seats": "4",
     "Bootspace": "0 Litre",
     "FuelCapacity": "57 Litre",
-    "citymileage": "10 Litre",
-    "highwaymileage": "15 Litre"
+    "citymileage": "10",
+    "highwaymileage": "15"
   }
 ]
